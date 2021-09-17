@@ -1,5 +1,5 @@
 # FlowerRecogntiion
-FlowerRecogntiion with Pytorch
+Flower Recogntiion with Pytorch
 - It is a deep learning project using Pytorch. Found the datasets on kaggle and prepared the datasets for
 training.There are different form of datasets classes such as daisy,dandelion, rose, sunflower, tulip.
 The aim of this project is to predict the target image. Steps used are importing required libraries by seeing the image data
